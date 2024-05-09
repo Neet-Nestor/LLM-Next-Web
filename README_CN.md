@@ -1,17 +1,13 @@
 <div align="center">
-<img src="./docs/images/icon.svg" alt="预览"/>
+<img src="./docs/images/icon.svg" alt="预览" height=50 style="background-color: white" />
 
-<h1 align="center">NextChat</h1>
+<h1 align="center">WebLLM NextChat</h1>
 
-一键免费部署你的私人 ChatGPT 网页应用，支持 GPT3, GPT4 & Gemini Pro 模型。
+A chat webapp integrating [WebLLM](https://github.com/mlc-ai/web-llm) and [Next-Chat-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) UI.
 
-[演示 Demo](https://chat-gpt-next-web.vercel.app/) / [反馈 Issues](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / [加入 Discord](https://discord.gg/zrhvHCr79N)
+The following is the README from the original NextChat project.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web)
-
-[![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/ZBUEFA)
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
+[演示 Demo](https://chat.neet.coffee/)
 
 ![主界面](./docs/images/cover.png)
 
